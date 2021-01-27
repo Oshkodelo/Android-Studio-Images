@@ -1,3 +1,2 @@
 # Android-Studio-Images
-[view.pdf](https://github.com/Oshkodelo/Android-Studio-Images/files/5876934/view.pdf)
-
+<img width="214" alt="view.pdf" src="https://github.com/Oshkodelo/Android-Studio-Images/files/5876934/view.pdf">
