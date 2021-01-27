@@ -1,2 +1,2 @@
 # Android-Studio-Images
-![alt text](https://github.com/Oshkodelo/Android-Studio-Images/files/5876934/view.pdf)
+<img width="214" alt="Attributes.pdf" src="[Attributes.pdf](https://github.com/Oshkodelo/Android-Studio-Images/files/5876966/Attributes.pdf)">
